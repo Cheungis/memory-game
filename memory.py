@@ -1,14 +1,10 @@
 # Memory
-# version 3
 # this program does the following:
 # Create window
 # Create game
 # Play game
 # End game
-'''
-in this version:
- - all features are implemented
-'''
+
 from uagame import Window
 import pygame, time, random
 from pygame.locals import *
